@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ressurection", "Ressurection\Ressurection.csproj", "{F1B64B2E-D4B4-4E85-A4D8-968CB53EBAEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icarus", "Icarus\Icarus.csproj", "{073F433F-1DED-4F32-A0BD-2A95FB854CCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phoenix Grid", "Phoenix Grid\Phoenix Grid.csproj", "{EF9F0B9C-992A-4398-B1A0-34AB69B973BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phoenix Oscar Romeo November", "Phoenix Oscar Romeo November\Phoenix Oscar Romeo November.csproj", "{EC1DEBFE-36BF-44F3-B85D-5D7210C6E213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B64B2E-D4B4-4E85-A4D8-968CB53EBAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B64B2E-D4B4-4E85-A4D8-968CB53EBAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B64B2E-D4B4-4E85-A4D8-968CB53EBAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B64B2E-D4B4-4E85-A4D8-968CB53EBAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{073F433F-1DED-4F32-A0BD-2A95FB854CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073F433F-1DED-4F32-A0BD-2A95FB854CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073F433F-1DED-4F32-A0BD-2A95FB854CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073F433F-1DED-4F32-A0BD-2A95FB854CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF9F0B9C-992A-4398-B1A0-34AB69B973BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9F0B9C-992A-4398-B1A0-34AB69B973BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9F0B9C-992A-4398-B1A0-34AB69B973BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9F0B9C-992A-4398-B1A0-34AB69B973BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC1DEBFE-36BF-44F3-B85D-5D7210C6E213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1DEBFE-36BF-44F3-B85D-5D7210C6E213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1DEBFE-36BF-44F3-B85D-5D7210C6E213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1DEBFE-36BF-44F3-B85D-5D7210C6E213}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

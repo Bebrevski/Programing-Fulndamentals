@@ -1,0 +1,9 @@
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Trainers\bin\Debug\Trainers.exe.config
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Trainers\bin\Debug\Trainers.exe
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Trainers\bin\Debug\Trainers.pdb
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Trainers\obj\Debug\Trainers.csprojResolveAssemblyReference.cache
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Trainers\obj\Debug\Trainers.exe
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Trainers\obj\Debug\Trainers.pdb
+E:\SoftUni\Programing Fundamentals Sep.2017\E X A M S\Programming Fundamentals Extended Exam - 20 August 2017\Trainers\bin\Debug\Trainers.exe.config
+E:\SoftUni\Programing Fundamentals Sep.2017\E X A M S\Programming Fundamentals Extended Exam - 20 August 2017\Trainers\obj\Debug\Trainers.exe
+E:\SoftUni\Programing Fundamentals Sep.2017\E X A M S\Programming Fundamentals Extended Exam - 20 August 2017\Trainers\obj\Debug\Trainers.pdb

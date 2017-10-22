@@ -1,0 +1,5 @@
+D:\SoftUni\17. FILES AND EXCEPTIONS\5. Folder Size\bin\Debug\_5.Folder_Size.exe.config
+D:\SoftUni\17. FILES AND EXCEPTIONS\5. Folder Size\bin\Debug\_5.Folder_Size.exe
+D:\SoftUni\17. FILES AND EXCEPTIONS\5. Folder Size\bin\Debug\_5.Folder_Size.pdb
+D:\SoftUni\17. FILES AND EXCEPTIONS\5. Folder Size\obj\Debug\_5.Folder_Size.exe
+D:\SoftUni\17. FILES AND EXCEPTIONS\5. Folder Size\obj\Debug\_5.Folder_Size.pdb

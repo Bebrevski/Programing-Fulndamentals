@@ -1,0 +1,9 @@
+D:\SoftUni\17. FILES AND EXCEPTIONS\1. Odd Lines\bin\Debug\_1.Odd_Lines.exe.config
+D:\SoftUni\17. FILES AND EXCEPTIONS\1. Odd Lines\bin\Debug\_1.Odd_Lines.exe
+D:\SoftUni\17. FILES AND EXCEPTIONS\1. Odd Lines\bin\Debug\_1.Odd_Lines.pdb
+D:\SoftUni\17. FILES AND EXCEPTIONS\1. Odd Lines\obj\Debug\1. Odd Lines.csprojResolveAssemblyReference.cache
+D:\SoftUni\17. FILES AND EXCEPTIONS\1. Odd Lines\obj\Debug\_1.Odd_Lines.exe
+D:\SoftUni\17. FILES AND EXCEPTIONS\1. Odd Lines\obj\Debug\_1.Odd_Lines.pdb
+D:\SoftUni\Programing Fundamentals Sept 2017\17. Files and Exeptions\1. Odd Lines\bin\Debug\_1.Odd_Lines.exe.config
+D:\SoftUni\Programing Fundamentals Sept 2017\17. Files and Exeptions\1. Odd Lines\obj\Debug\_1.Odd_Lines.exe
+D:\SoftUni\Programing Fundamentals Sept 2017\17. Files and Exeptions\1. Odd Lines\obj\Debug\_1.Odd_Lines.pdb

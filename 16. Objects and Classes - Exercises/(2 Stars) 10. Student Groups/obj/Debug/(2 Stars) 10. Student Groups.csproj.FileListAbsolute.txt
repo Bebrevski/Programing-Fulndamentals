@@ -1,0 +1,6 @@
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\(2 Stars) 10. Student Groups\bin\Debug\_2_Stars__10.Student_Groups.exe.config
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\(2 Stars) 10. Student Groups\obj\Debug\(2 Stars) 10. Student Groups.csprojResolveAssemblyReference.cache
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\(2 Stars) 10. Student Groups\bin\Debug\_2_Stars__10.Student_Groups.exe
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\(2 Stars) 10. Student Groups\bin\Debug\_2_Stars__10.Student_Groups.pdb
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\(2 Stars) 10. Student Groups\obj\Debug\_2_Stars__10.Student_Groups.exe
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\(2 Stars) 10. Student Groups\obj\Debug\_2_Stars__10.Student_Groups.pdb

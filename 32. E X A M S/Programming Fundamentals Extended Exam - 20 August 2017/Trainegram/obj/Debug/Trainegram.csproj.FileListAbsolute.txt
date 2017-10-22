@@ -1,0 +1,6 @@
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Trainegram\bin\Debug\Trainegram.exe.config
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Trainegram\bin\Debug\Trainegram.exe
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Trainegram\bin\Debug\Trainegram.pdb
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Trainegram\obj\Debug\Trainegram.csprojResolveAssemblyReference.cache
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Trainegram\obj\Debug\Trainegram.exe
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Trainegram\obj\Debug\Trainegram.pdb

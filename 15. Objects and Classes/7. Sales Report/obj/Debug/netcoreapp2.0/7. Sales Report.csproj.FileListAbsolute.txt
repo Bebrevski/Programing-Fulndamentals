@@ -1,0 +1,10 @@
+D:\SoftUni\15. OBJECTS AND CLASSES\7. Sales Report\bin\Debug\netcoreapp2.0\7. Sales Report.deps.json
+D:\SoftUni\15. OBJECTS AND CLASSES\7. Sales Report\bin\Debug\netcoreapp2.0\7. Sales Report.runtimeconfig.json
+D:\SoftUni\15. OBJECTS AND CLASSES\7. Sales Report\bin\Debug\netcoreapp2.0\7. Sales Report.runtimeconfig.dev.json
+D:\SoftUni\15. OBJECTS AND CLASSES\7. Sales Report\bin\Debug\netcoreapp2.0\7. Sales Report.dll
+D:\SoftUni\15. OBJECTS AND CLASSES\7. Sales Report\bin\Debug\netcoreapp2.0\7. Sales Report.pdb
+D:\SoftUni\15. OBJECTS AND CLASSES\7. Sales Report\obj\Debug\netcoreapp2.0\7. Sales Report.csproj.CoreCompileInputs.cache
+D:\SoftUni\15. OBJECTS AND CLASSES\7. Sales Report\obj\Debug\netcoreapp2.0\7. Sales Report.AssemblyInfoInputs.cache
+D:\SoftUni\15. OBJECTS AND CLASSES\7. Sales Report\obj\Debug\netcoreapp2.0\7. Sales Report.AssemblyInfo.cs
+D:\SoftUni\15. OBJECTS AND CLASSES\7. Sales Report\obj\Debug\netcoreapp2.0\7. Sales Report.dll
+D:\SoftUni\15. OBJECTS AND CLASSES\7. Sales Report\obj\Debug\netcoreapp2.0\7. Sales Report.pdb

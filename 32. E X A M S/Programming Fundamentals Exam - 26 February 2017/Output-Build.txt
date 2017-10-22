@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Hornet Comm, Configuration: Debug Any CPU ------
+1>  Hornet Comm -> E:\SoftUni\Programing Fundamentals Sep.2017\32. E X A M S\Programming Fundamentals Exam - 26 February 2017\Hornet Comm\bin\Debug\Hornet Comm.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

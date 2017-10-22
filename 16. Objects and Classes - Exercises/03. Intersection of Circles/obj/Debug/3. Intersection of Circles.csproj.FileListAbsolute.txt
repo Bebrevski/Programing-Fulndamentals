@@ -1,0 +1,6 @@
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\3. Intersection of Circles\bin\Debug\_3.Intersection_of_Circles.exe.config
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\3. Intersection of Circles\bin\Debug\_3.Intersection_of_Circles.exe
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\3. Intersection of Circles\bin\Debug\_3.Intersection_of_Circles.pdb
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\3. Intersection of Circles\obj\Debug\3. Intersection of Circles.csprojResolveAssemblyReference.cache
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\3. Intersection of Circles\obj\Debug\_3.Intersection_of_Circles.exe
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\3. Intersection of Circles\obj\Debug\_3.Intersection_of_Circles.pdb

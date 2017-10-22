@@ -1,0 +1,11 @@
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\01. Count Working Days\bin\Debug\netcoreapp2.0\01. Count Working Days.deps.json
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\01. Count Working Days\bin\Debug\netcoreapp2.0\01. Count Working Days.runtimeconfig.json
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\01. Count Working Days\bin\Debug\netcoreapp2.0\01. Count Working Days.runtimeconfig.dev.json
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\01. Count Working Days\bin\Debug\netcoreapp2.0\01. Count Working Days.dll
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\01. Count Working Days\bin\Debug\netcoreapp2.0\01. Count Working Days.pdb
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\01. Count Working Days\obj\Debug\netcoreapp2.0\01. Count Working Days.csprojResolveAssemblyReference.cache
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\01. Count Working Days\obj\Debug\netcoreapp2.0\01. Count Working Days.csproj.CoreCompileInputs.cache
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\01. Count Working Days\obj\Debug\netcoreapp2.0\01. Count Working Days.AssemblyInfoInputs.cache
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\01. Count Working Days\obj\Debug\netcoreapp2.0\01. Count Working Days.AssemblyInfo.cs
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\01. Count Working Days\obj\Debug\netcoreapp2.0\01. Count Working Days.dll
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\01. Count Working Days\obj\Debug\netcoreapp2.0\01. Count Working Days.pdb

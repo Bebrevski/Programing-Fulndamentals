@@ -1,0 +1,6 @@
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Entertrain\bin\Debug\Entertrain.exe.config
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Entertrain\bin\Debug\Entertrain.exe
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Entertrain\bin\Debug\Entertrain.pdb
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Entertrain\obj\Debug\Entertrain.csprojResolveAssemblyReference.cache
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Entertrain\obj\Debug\Entertrain.exe
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Entertrain\obj\Debug\Entertrain.pdb

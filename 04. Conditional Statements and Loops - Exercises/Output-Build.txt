@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Neighbour Wars, Configuration: Debug Any CPU ------
+1>  Neighbour Wars -> E:\EBG\Programing fundamentals Demo\Conditional Statements and Loops - Exercises\Neighbour Wars\bin\Debug\Neighbour Wars.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

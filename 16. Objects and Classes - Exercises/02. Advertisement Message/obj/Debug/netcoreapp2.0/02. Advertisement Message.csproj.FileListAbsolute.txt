@@ -1,0 +1,10 @@
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.deps.json
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.runtimeconfig.json
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.runtimeconfig.dev.json
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.dll
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.pdb
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.csproj.CoreCompileInputs.cache
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.AssemblyInfoInputs.cache
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.AssemblyInfo.cs
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.dll
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.pdb

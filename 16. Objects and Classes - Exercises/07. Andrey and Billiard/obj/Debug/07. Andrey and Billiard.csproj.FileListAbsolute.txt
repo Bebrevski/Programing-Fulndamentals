@@ -1,0 +1,6 @@
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\07. Andrey and Billiard\bin\Debug\_07.Andrey_and_Billiard.exe.config
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\07. Andrey and Billiard\bin\Debug\_07.Andrey_and_Billiard.exe
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\07. Andrey and Billiard\bin\Debug\_07.Andrey_and_Billiard.pdb
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\07. Andrey and Billiard\obj\Debug\07. Andrey and Billiard.csprojResolveAssemblyReference.cache
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\07. Andrey and Billiard\obj\Debug\_07.Andrey_and_Billiard.exe
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\07. Andrey and Billiard\obj\Debug\_07.Andrey_and_Billiard.pdb

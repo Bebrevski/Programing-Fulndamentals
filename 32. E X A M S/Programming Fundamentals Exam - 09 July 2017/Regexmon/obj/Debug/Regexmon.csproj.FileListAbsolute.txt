@@ -1,0 +1,6 @@
+E:\SoftUni\Programing Fundamentals Sep.2017\E X A M S\Programming Fundamentals Exam - 09 July 2017\Regexmon\bin\Debug\Regexmon.exe.config
+E:\SoftUni\Programing Fundamentals Sep.2017\E X A M S\Programming Fundamentals Exam - 09 July 2017\Regexmon\bin\Debug\Regexmon.exe
+E:\SoftUni\Programing Fundamentals Sep.2017\E X A M S\Programming Fundamentals Exam - 09 July 2017\Regexmon\bin\Debug\Regexmon.pdb
+E:\SoftUni\Programing Fundamentals Sep.2017\E X A M S\Programming Fundamentals Exam - 09 July 2017\Regexmon\obj\Debug\Regexmon.csprojResolveAssemblyReference.cache
+E:\SoftUni\Programing Fundamentals Sep.2017\E X A M S\Programming Fundamentals Exam - 09 July 2017\Regexmon\obj\Debug\Regexmon.exe
+E:\SoftUni\Programing Fundamentals Sep.2017\E X A M S\Programming Fundamentals Exam - 09 July 2017\Regexmon\obj\Debug\Regexmon.pdb

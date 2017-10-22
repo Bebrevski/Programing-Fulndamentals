@@ -1,0 +1,11 @@
+D:\SoftUni\15. OBJECTS AND CLASSES\5. Closest Two Points\bin\Debug\netcoreapp2.0\5. Closest Two Points.deps.json
+D:\SoftUni\15. OBJECTS AND CLASSES\5. Closest Two Points\bin\Debug\netcoreapp2.0\5. Closest Two Points.runtimeconfig.json
+D:\SoftUni\15. OBJECTS AND CLASSES\5. Closest Two Points\bin\Debug\netcoreapp2.0\5. Closest Two Points.runtimeconfig.dev.json
+D:\SoftUni\15. OBJECTS AND CLASSES\5. Closest Two Points\bin\Debug\netcoreapp2.0\5. Closest Two Points.dll
+D:\SoftUni\15. OBJECTS AND CLASSES\5. Closest Two Points\bin\Debug\netcoreapp2.0\5. Closest Two Points.pdb
+D:\SoftUni\15. OBJECTS AND CLASSES\5. Closest Two Points\obj\Debug\netcoreapp2.0\5. Closest Two Points.csprojResolveAssemblyReference.cache
+D:\SoftUni\15. OBJECTS AND CLASSES\5. Closest Two Points\obj\Debug\netcoreapp2.0\5. Closest Two Points.csproj.CoreCompileInputs.cache
+D:\SoftUni\15. OBJECTS AND CLASSES\5. Closest Two Points\obj\Debug\netcoreapp2.0\5. Closest Two Points.AssemblyInfoInputs.cache
+D:\SoftUni\15. OBJECTS AND CLASSES\5. Closest Two Points\obj\Debug\netcoreapp2.0\5. Closest Two Points.AssemblyInfo.cs
+D:\SoftUni\15. OBJECTS AND CLASSES\5. Closest Two Points\obj\Debug\netcoreapp2.0\5. Closest Two Points.dll
+D:\SoftUni\15. OBJECTS AND CLASSES\5. Closest Two Points\obj\Debug\netcoreapp2.0\5. Closest Two Points.pdb

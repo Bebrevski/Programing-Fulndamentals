@@ -1,0 +1,6 @@
+D:\SoftUni\17. FILES AND EXCEPTIONS\3. Word Count\bin\Debug\_3.Word_Count.exe.config
+D:\SoftUni\17. FILES AND EXCEPTIONS\3. Word Count\bin\Debug\_3.Word_Count.exe
+D:\SoftUni\17. FILES AND EXCEPTIONS\3. Word Count\bin\Debug\_3.Word_Count.pdb
+D:\SoftUni\17. FILES AND EXCEPTIONS\3. Word Count\obj\Debug\3. Word Count.csprojResolveAssemblyReference.cache
+D:\SoftUni\17. FILES AND EXCEPTIONS\3. Word Count\obj\Debug\_3.Word_Count.exe
+D:\SoftUni\17. FILES AND EXCEPTIONS\3. Word Count\obj\Debug\_3.Word_Count.pdb

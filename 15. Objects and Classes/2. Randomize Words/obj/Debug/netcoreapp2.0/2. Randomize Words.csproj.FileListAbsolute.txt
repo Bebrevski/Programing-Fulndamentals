@@ -1,0 +1,10 @@
+D:\SoftUni\15. OBJECTS AND CLASSES\2. Randomize Words\bin\Debug\netcoreapp2.0\2. Randomize Words.deps.json
+D:\SoftUni\15. OBJECTS AND CLASSES\2. Randomize Words\bin\Debug\netcoreapp2.0\2. Randomize Words.runtimeconfig.json
+D:\SoftUni\15. OBJECTS AND CLASSES\2. Randomize Words\bin\Debug\netcoreapp2.0\2. Randomize Words.runtimeconfig.dev.json
+D:\SoftUni\15. OBJECTS AND CLASSES\2. Randomize Words\bin\Debug\netcoreapp2.0\2. Randomize Words.dll
+D:\SoftUni\15. OBJECTS AND CLASSES\2. Randomize Words\bin\Debug\netcoreapp2.0\2. Randomize Words.pdb
+D:\SoftUni\15. OBJECTS AND CLASSES\2. Randomize Words\obj\Debug\netcoreapp2.0\2. Randomize Words.csproj.CoreCompileInputs.cache
+D:\SoftUni\15. OBJECTS AND CLASSES\2. Randomize Words\obj\Debug\netcoreapp2.0\2. Randomize Words.AssemblyInfoInputs.cache
+D:\SoftUni\15. OBJECTS AND CLASSES\2. Randomize Words\obj\Debug\netcoreapp2.0\2. Randomize Words.AssemblyInfo.cs
+D:\SoftUni\15. OBJECTS AND CLASSES\2. Randomize Words\obj\Debug\netcoreapp2.0\2. Randomize Words.dll
+D:\SoftUni\15. OBJECTS AND CLASSES\2. Randomize Words\obj\Debug\netcoreapp2.0\2. Randomize Words.pdb

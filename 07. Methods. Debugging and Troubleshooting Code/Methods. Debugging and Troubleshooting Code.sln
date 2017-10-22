@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blank Receipt", "Blank Receipt\Blank Receipt.csproj", "{2DDE1D1B-F06E-4F4B-B442-A7C45DFC378F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sign of Integer Number", "Sign of Integer Number\Sign of Integer Number.csproj", "{518A758B-F500-424F-B98C-8AB0F1C724C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Printing Triangle", "Printing Triangle\Printing Triangle.csproj", "{C577FA13-7D52-472F-827E-1D9D8421F56C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draw a Filled Square", "Draw a Filled Square\Draw a Filled Square.csproj", "{AA690216-60F9-4FE8-993C-99A4E1BA81AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temperature Conversion", "Temperature Conversion\Temperature Conversion.csproj", "{DF57F57C-DFC5-4A86-B26A-9FEFC8F7B886}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate Triangle Area", "Calculate Triangle Area\Calculate Triangle Area.csproj", "{F1355337-55F2-4A63-A562-FC46030367AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math Power", "Math Power\Math Power.csproj", "{E33299D5-EC50-420E-BCD0-C957C39A27BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greater of Two Values", "Greater of Two Values\Greater of Two Values.csproj", "{C26D0A52-428C-4A94-9BF9-A50ABA89ACD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiply Evens by Odds", "Multiply Evens by Odds\Multiply Evens by Odds.csproj", "{DE3E42B9-DC5D-499A-BE8F-9F9B724B79C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Holidays Between Two Dates", "Holidays Between Two Dates\Holidays Between Two Dates.csproj", "{F2FE99BA-57DA-4D1E-B512-A978DFA33591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Price Change Alert", "Price Change Alert\Price Change Alert.csproj", "{25C8FE3D-7086-4B74-977D-7A66718EE797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DDE1D1B-F06E-4F4B-B442-A7C45DFC378F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDE1D1B-F06E-4F4B-B442-A7C45DFC378F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDE1D1B-F06E-4F4B-B442-A7C45DFC378F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDE1D1B-F06E-4F4B-B442-A7C45DFC378F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{518A758B-F500-424F-B98C-8AB0F1C724C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518A758B-F500-424F-B98C-8AB0F1C724C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518A758B-F500-424F-B98C-8AB0F1C724C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518A758B-F500-424F-B98C-8AB0F1C724C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C577FA13-7D52-472F-827E-1D9D8421F56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C577FA13-7D52-472F-827E-1D9D8421F56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C577FA13-7D52-472F-827E-1D9D8421F56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C577FA13-7D52-472F-827E-1D9D8421F56C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA690216-60F9-4FE8-993C-99A4E1BA81AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA690216-60F9-4FE8-993C-99A4E1BA81AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA690216-60F9-4FE8-993C-99A4E1BA81AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA690216-60F9-4FE8-993C-99A4E1BA81AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF57F57C-DFC5-4A86-B26A-9FEFC8F7B886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF57F57C-DFC5-4A86-B26A-9FEFC8F7B886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF57F57C-DFC5-4A86-B26A-9FEFC8F7B886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF57F57C-DFC5-4A86-B26A-9FEFC8F7B886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1355337-55F2-4A63-A562-FC46030367AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1355337-55F2-4A63-A562-FC46030367AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1355337-55F2-4A63-A562-FC46030367AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1355337-55F2-4A63-A562-FC46030367AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E33299D5-EC50-420E-BCD0-C957C39A27BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33299D5-EC50-420E-BCD0-C957C39A27BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33299D5-EC50-420E-BCD0-C957C39A27BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33299D5-EC50-420E-BCD0-C957C39A27BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C26D0A52-428C-4A94-9BF9-A50ABA89ACD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26D0A52-428C-4A94-9BF9-A50ABA89ACD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26D0A52-428C-4A94-9BF9-A50ABA89ACD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26D0A52-428C-4A94-9BF9-A50ABA89ACD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE3E42B9-DC5D-499A-BE8F-9F9B724B79C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3E42B9-DC5D-499A-BE8F-9F9B724B79C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3E42B9-DC5D-499A-BE8F-9F9B724B79C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3E42B9-DC5D-499A-BE8F-9F9B724B79C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FE99BA-57DA-4D1E-B512-A978DFA33591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FE99BA-57DA-4D1E-B512-A978DFA33591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FE99BA-57DA-4D1E-B512-A978DFA33591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FE99BA-57DA-4D1E-B512-A978DFA33591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25C8FE3D-7086-4B74-977D-7A66718EE797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C8FE3D-7086-4B74-977D-7A66718EE797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C8FE3D-7086-4B74-977D-7A66718EE797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C8FE3D-7086-4B74-977D-7A66718EE797}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

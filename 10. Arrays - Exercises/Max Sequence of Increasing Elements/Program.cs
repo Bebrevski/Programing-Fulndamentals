@@ -1,0 +1,46 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Max_Sequence_of_Increasing_Elements
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] arr = Console.ReadLine()
+                .Split(' ')
+                .Select(int.Parse)
+                .ToArray();
+
+            int counter = 0;
+            int max = 0;
+            int start = 0;
+
+            for (int i = 0; i < arr.Length - 1; i++)
+            {
+                if (arr[i] < arr[i + 1])
+                {
+                    counter++;
+                    if (counter > max)
+                    {
+                        max = counter;
+                        start = i - counter;
+                    }
+                }
+                else
+                {
+                    counter = 0;
+                }
+            }
+
+            for (int i = start+1; i < start + max + 2; i++)
+            {
+                Console.Write(arr[i] + " ");
+            }
+            Console.WriteLine();
+        }
+    }
+}

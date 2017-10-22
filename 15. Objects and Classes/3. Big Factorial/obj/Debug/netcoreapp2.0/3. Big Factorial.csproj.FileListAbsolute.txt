@@ -1,0 +1,11 @@
+D:\SoftUni\15. OBJECTS AND CLASSES\3. Big Factorial\bin\Debug\netcoreapp2.0\3. Big Factorial.deps.json
+D:\SoftUni\15. OBJECTS AND CLASSES\3. Big Factorial\bin\Debug\netcoreapp2.0\3. Big Factorial.runtimeconfig.json
+D:\SoftUni\15. OBJECTS AND CLASSES\3. Big Factorial\bin\Debug\netcoreapp2.0\3. Big Factorial.runtimeconfig.dev.json
+D:\SoftUni\15. OBJECTS AND CLASSES\3. Big Factorial\bin\Debug\netcoreapp2.0\3. Big Factorial.dll
+D:\SoftUni\15. OBJECTS AND CLASSES\3. Big Factorial\bin\Debug\netcoreapp2.0\3. Big Factorial.pdb
+D:\SoftUni\15. OBJECTS AND CLASSES\3. Big Factorial\obj\Debug\netcoreapp2.0\3. Big Factorial.csprojResolveAssemblyReference.cache
+D:\SoftUni\15. OBJECTS AND CLASSES\3. Big Factorial\obj\Debug\netcoreapp2.0\3. Big Factorial.csproj.CoreCompileInputs.cache
+D:\SoftUni\15. OBJECTS AND CLASSES\3. Big Factorial\obj\Debug\netcoreapp2.0\3. Big Factorial.AssemblyInfoInputs.cache
+D:\SoftUni\15. OBJECTS AND CLASSES\3. Big Factorial\obj\Debug\netcoreapp2.0\3. Big Factorial.AssemblyInfo.cs
+D:\SoftUni\15. OBJECTS AND CLASSES\3. Big Factorial\obj\Debug\netcoreapp2.0\3. Big Factorial.dll
+D:\SoftUni\15. OBJECTS AND CLASSES\3. Big Factorial\obj\Debug\netcoreapp2.0\3. Big Factorial.pdb

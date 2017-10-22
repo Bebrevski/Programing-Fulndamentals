@@ -1,0 +1,6 @@
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Retake Exam - 09 May 2017\NSA\bin\Debug\NSA.exe.config
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Retake Exam - 09 May 2017\NSA\bin\Debug\NSA.exe
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Retake Exam - 09 May 2017\NSA\bin\Debug\NSA.pdb
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Retake Exam - 09 May 2017\NSA\obj\Debug\NSA.csprojResolveAssemblyReference.cache
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Retake Exam - 09 May 2017\NSA\obj\Debug\NSA.exe
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Retake Exam - 09 May 2017\NSA\obj\Debug\NSA.pdb

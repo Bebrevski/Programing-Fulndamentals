@@ -1,0 +1,11 @@
+D:\SoftUni\15. OBJECTS AND CLASSES\6. ectangle Position\bin\Debug\netcoreapp2.0\6. ectangle Position.deps.json
+D:\SoftUni\15. OBJECTS AND CLASSES\6. ectangle Position\bin\Debug\netcoreapp2.0\6. ectangle Position.runtimeconfig.json
+D:\SoftUni\15. OBJECTS AND CLASSES\6. ectangle Position\bin\Debug\netcoreapp2.0\6. ectangle Position.runtimeconfig.dev.json
+D:\SoftUni\15. OBJECTS AND CLASSES\6. ectangle Position\bin\Debug\netcoreapp2.0\6. ectangle Position.dll
+D:\SoftUni\15. OBJECTS AND CLASSES\6. ectangle Position\bin\Debug\netcoreapp2.0\6. ectangle Position.pdb
+D:\SoftUni\15. OBJECTS AND CLASSES\6. ectangle Position\obj\Debug\netcoreapp2.0\6. ectangle Position.csprojResolveAssemblyReference.cache
+D:\SoftUni\15. OBJECTS AND CLASSES\6. ectangle Position\obj\Debug\netcoreapp2.0\6. ectangle Position.csproj.CoreCompileInputs.cache
+D:\SoftUni\15. OBJECTS AND CLASSES\6. ectangle Position\obj\Debug\netcoreapp2.0\6. ectangle Position.AssemblyInfoInputs.cache
+D:\SoftUni\15. OBJECTS AND CLASSES\6. ectangle Position\obj\Debug\netcoreapp2.0\6. ectangle Position.AssemblyInfo.cs
+D:\SoftUni\15. OBJECTS AND CLASSES\6. ectangle Position\obj\Debug\netcoreapp2.0\6. ectangle Position.dll
+D:\SoftUni\15. OBJECTS AND CLASSES\6. ectangle Position\obj\Debug\netcoreapp2.0\6. ectangle Position.pdb

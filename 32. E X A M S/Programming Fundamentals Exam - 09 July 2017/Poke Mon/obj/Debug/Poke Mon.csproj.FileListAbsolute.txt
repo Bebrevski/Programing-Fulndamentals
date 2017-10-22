@@ -1,0 +1,6 @@
+E:\SoftUni\Programing Fundamentals Sep.2017\E X A M S\Programming Fundamentals Exam - 09 July 2017\Poke Mon\bin\Debug\Poke Mon.exe.config
+E:\SoftUni\Programing Fundamentals Sep.2017\E X A M S\Programming Fundamentals Exam - 09 July 2017\Poke Mon\bin\Debug\Poke Mon.exe
+E:\SoftUni\Programing Fundamentals Sep.2017\E X A M S\Programming Fundamentals Exam - 09 July 2017\Poke Mon\bin\Debug\Poke Mon.pdb
+E:\SoftUni\Programing Fundamentals Sep.2017\E X A M S\Programming Fundamentals Exam - 09 July 2017\Poke Mon\obj\Debug\Poke Mon.csprojResolveAssemblyReference.cache
+E:\SoftUni\Programing Fundamentals Sep.2017\E X A M S\Programming Fundamentals Exam - 09 July 2017\Poke Mon\obj\Debug\Poke Mon.exe
+E:\SoftUni\Programing Fundamentals Sep.2017\E X A M S\Programming Fundamentals Exam - 09 July 2017\Poke Mon\obj\Debug\Poke Mon.pdb

@@ -1,0 +1,9 @@
+D:\SoftUni\17. FILES AND EXCEPTIONS\4. Merge Files\bin\Debug\_4.Merge_Files.exe.config
+D:\SoftUni\17. FILES AND EXCEPTIONS\4. Merge Files\bin\Debug\_4.Merge_Files.exe
+D:\SoftUni\17. FILES AND EXCEPTIONS\4. Merge Files\bin\Debug\_4.Merge_Files.pdb
+D:\SoftUni\17. FILES AND EXCEPTIONS\4. Merge Files\obj\Debug\4. Merge Files.csprojResolveAssemblyReference.cache
+D:\SoftUni\17. FILES AND EXCEPTIONS\4. Merge Files\obj\Debug\_4.Merge_Files.exe
+D:\SoftUni\17. FILES AND EXCEPTIONS\4. Merge Files\obj\Debug\_4.Merge_Files.pdb
+D:\SoftUni\Programing Fundamentals Sept 2017\17. Files and Exeptions\4. Merge Files\bin\Debug\_4.Merge_Files.exe.config
+D:\SoftUni\Programing Fundamentals Sept 2017\17. Files and Exeptions\4. Merge Files\obj\Debug\_4.Merge_Files.exe
+D:\SoftUni\Programing Fundamentals Sept 2017\17. Files and Exeptions\4. Merge Files\obj\Debug\_4.Merge_Files.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Retake Exam - 09 May 2017\Spyfer\bin\Debug\Spyfer.exe.config
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Retake Exam - 09 May 2017\Spyfer\bin\Debug\Spyfer.exe
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Retake Exam - 09 May 2017\Spyfer\bin\Debug\Spyfer.pdb
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Retake Exam - 09 May 2017\Spyfer\obj\Debug\Spyfer.csprojResolveAssemblyReference.cache
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Retake Exam - 09 May 2017\Spyfer\obj\Debug\Spyfer.exe
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Retake Exam - 09 May 2017\Spyfer\obj\Debug\Spyfer.pdb

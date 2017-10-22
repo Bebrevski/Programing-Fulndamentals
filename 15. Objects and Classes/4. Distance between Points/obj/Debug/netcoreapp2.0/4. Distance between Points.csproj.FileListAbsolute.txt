@@ -1,0 +1,11 @@
+D:\SoftUni\15. OBJECTS AND CLASSES\4. Distance between Points\bin\Debug\netcoreapp2.0\4. Distance between Points.deps.json
+D:\SoftUni\15. OBJECTS AND CLASSES\4. Distance between Points\bin\Debug\netcoreapp2.0\4. Distance between Points.runtimeconfig.json
+D:\SoftUni\15. OBJECTS AND CLASSES\4. Distance between Points\bin\Debug\netcoreapp2.0\4. Distance between Points.runtimeconfig.dev.json
+D:\SoftUni\15. OBJECTS AND CLASSES\4. Distance between Points\bin\Debug\netcoreapp2.0\4. Distance between Points.dll
+D:\SoftUni\15. OBJECTS AND CLASSES\4. Distance between Points\bin\Debug\netcoreapp2.0\4. Distance between Points.pdb
+D:\SoftUni\15. OBJECTS AND CLASSES\4. Distance between Points\obj\Debug\netcoreapp2.0\4. Distance between Points.csprojResolveAssemblyReference.cache
+D:\SoftUni\15. OBJECTS AND CLASSES\4. Distance between Points\obj\Debug\netcoreapp2.0\4. Distance between Points.csproj.CoreCompileInputs.cache
+D:\SoftUni\15. OBJECTS AND CLASSES\4. Distance between Points\obj\Debug\netcoreapp2.0\4. Distance between Points.AssemblyInfoInputs.cache
+D:\SoftUni\15. OBJECTS AND CLASSES\4. Distance between Points\obj\Debug\netcoreapp2.0\4. Distance between Points.AssemblyInfo.cs
+D:\SoftUni\15. OBJECTS AND CLASSES\4. Distance between Points\obj\Debug\netcoreapp2.0\4. Distance between Points.dll
+D:\SoftUni\15. OBJECTS AND CLASSES\4. Distance between Points\obj\Debug\netcoreapp2.0\4. Distance between Points.pdb

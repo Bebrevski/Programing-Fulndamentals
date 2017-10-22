@@ -1,0 +1,9 @@
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\09. Teamwork projects\bin\Debug\_09.Teamwork_projects.exe.config
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\09. Teamwork projects\bin\Debug\_09.Teamwork_projects.exe
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\09. Teamwork projects\bin\Debug\_09.Teamwork_projects.pdb
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\09. Teamwork projects\obj\Debug\09. Teamwork projects.csprojResolveAssemblyReference.cache
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\09. Teamwork projects\obj\Debug\_09.Teamwork_projects.exe
+D:\SoftUni\16. OBJECTS AND CLASSES - EXERCISES\09. Teamwork projects\obj\Debug\_09.Teamwork_projects.pdb
+D:\SoftUni\Programing Fundamentals Sept 2017\16. Objects and Classes - Exercises\09. Teamwork projects\bin\Debug\_09.Teamwork_projects.exe.config
+D:\SoftUni\Programing Fundamentals Sept 2017\16. Objects and Classes - Exercises\09. Teamwork projects\obj\Debug\_09.Teamwork_projects.exe
+D:\SoftUni\Programing Fundamentals Sept 2017\16. Objects and Classes - Exercises\09. Teamwork projects\obj\Debug\_09.Teamwork_projects.pdb

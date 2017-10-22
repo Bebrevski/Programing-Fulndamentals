@@ -1,0 +1,6 @@
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Trainlands\bin\Debug\Trainlands.exe.config
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Trainlands\bin\Debug\Trainlands.exe
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Trainlands\bin\Debug\Trainlands.pdb
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Trainlands\obj\Debug\Trainlands.csprojResolveAssemblyReference.cache
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Trainlands\obj\Debug\Trainlands.exe
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals Extended Exam - 20 August 2017\Trainlands\obj\Debug\Trainlands.pdb

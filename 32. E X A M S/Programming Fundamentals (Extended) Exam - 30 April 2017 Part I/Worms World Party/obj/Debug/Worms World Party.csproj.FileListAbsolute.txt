@@ -1,0 +1,9 @@
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals (Extended) Exam - 30 April 2017 Part I\Worms World Party\bin\Debug\Worms World Party.exe.config
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals (Extended) Exam - 30 April 2017 Part I\Worms World Party\bin\Debug\Worms World Party.exe
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals (Extended) Exam - 30 April 2017 Part I\Worms World Party\bin\Debug\Worms World Party.pdb
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals (Extended) Exam - 30 April 2017 Part I\Worms World Party\obj\Debug\Worms World Party.csprojResolveAssemblyReference.cache
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals (Extended) Exam - 30 April 2017 Part I\Worms World Party\obj\Debug\Worms World Party.exe
+E:\SoftUni\Programing fundamentals Demo\Programming Fundamentals (Extended) Exam - 30 April 2017 Part I\Worms World Party\obj\Debug\Worms World Party.pdb
+E:\SoftUni\Programing Fundamentals Sep.2017\E X A M S\Programming Fundamentals (Extended) Exam - 30 April 2017 Part I\Worms World Party\bin\Debug\Worms World Party.exe.config
+E:\SoftUni\Programing Fundamentals Sep.2017\E X A M S\Programming Fundamentals (Extended) Exam - 30 April 2017 Part I\Worms World Party\obj\Debug\Worms World Party.exe
+E:\SoftUni\Programing Fundamentals Sep.2017\E X A M S\Programming Fundamentals (Extended) Exam - 30 April 2017 Part I\Worms World Party\obj\Debug\Worms World Party.pdb

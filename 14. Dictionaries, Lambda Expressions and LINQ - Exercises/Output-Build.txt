@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: (Star) Legendary Farming, Configuration: Debug Any CPU ------
+1>  (Star) Legendary Farming -> E:\SoftUni\Programing Fundamentals Sep.2017\14. Dictionaries, Lambda Expressions and LINQ - Exercises\(Star) Legendary Farming\bin\Debug\(Star) Legendary Farming.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
