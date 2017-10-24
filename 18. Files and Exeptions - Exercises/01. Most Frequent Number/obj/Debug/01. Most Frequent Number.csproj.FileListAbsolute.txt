@@ -1,1 +1,2 @@
 D:\SoftUni\Programing Fundamentals Sept 2017\18. Files and Exeptions - Exercises\01. Most Frequent Number\bin\Debug\_01.Most_Frequent_Number.exe.config
+D:\SoftUni\Programing Fundamentals Sept. 2017\18. Files and Exeptions - Exercises\01. Most Frequent Number\bin\Debug\_01.Most_Frequent_Number.exe.config
