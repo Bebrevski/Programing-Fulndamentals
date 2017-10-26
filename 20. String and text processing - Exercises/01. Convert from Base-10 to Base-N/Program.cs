@@ -4,17 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _01.Reverse_String
+namespace _01.Convert_from_Base_10_to_Base_N
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string input = Console.ReadLine();
-
-            input = new string(input.Reverse().ToArray());
-
-            Console.WriteLine(input);
         }
     }
 }
