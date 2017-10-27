@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D19ECE97-CB2E-493C-B095-F7EDF9795172}</ProjectGuid>
+    <ProjectGuid>{173799AE-B1A3-412B-B295-F971A1771385}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_4.Palindromes</RootNamespace>
-    <AssemblyName>_4.Palindromes</AssemblyName>
+    <RootNamespace>_1.Sino_The_Walker</RootNamespace>
+    <AssemblyName>_1.Sino_The_Walker</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

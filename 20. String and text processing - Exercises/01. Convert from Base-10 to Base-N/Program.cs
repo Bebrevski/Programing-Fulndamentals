@@ -1,15 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _01.Convert_from_Base_10_to_Base_N
+class Solution
 {
-    class Program
+    static void Main(String[] args)
     {
-        static void Main(string[] args)
-        {
-        }
+        
     }
 }
