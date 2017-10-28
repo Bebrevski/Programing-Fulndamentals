@@ -10,22 +10,72 @@ namespace _06.Sum_Big_Numbers
     {
         static void Main(string[] args)
         {
-            StringBuilder number1 = new StringBuilder(Console.ReadLine());
-            StringBuilder number2 = new StringBuilder(Console.ReadLine());
+            StringBuilder number = new StringBuilder(Console.ReadLine());
+            StringBuilder multiplier = new StringBuilder(Console.ReadLine());
 
-            StringBuilder result = new StringBuilder();
 
-            int multilied = 0;
-            int remain = 0;
-            for (int i = number1.Length - 1; i >= 0; i--)
+            List<StringBuilder> record = new List<StringBuilder>();
+
+            int zeroesCounter = 0;
+
+            for (int m = multiplier.Length - 1; m >= 0; m--)
             {
-                for (int j = number2.Length - 1; j >= 0; j--)
+                StringBuilder currentResult = new StringBuilder();
+                int currentMul = 0;
+                int remain = 0;
+
+                for (int n = number.Length - 1; n >= 0; n--)
                 {
-//Multiply
+                    currentMul = (multiplier[m] - '0') * (number[n] - '0') + remain;
+
+                    if (currentMul > 9)
+                    {
+                        remain = currentMul / 10;
+                        currentMul %= 10;
+                    }
+                    else
+                    {
+                        remain = 0;
+                    }
+
+                    currentResult.Insert(0, currentMul);
+
+                    if (n.Equals(0) && remain != 0)
+                    {
+                        currentResult.Insert(0, remain);
+                    }
                 }
+                currentResult.Append(new string('0', zeroesCounter));
+                zeroesCounter++;
+                record.Add(currentResult);
             }
 
-            Console.WriteLine(result.ToString().TrimStart('1'));
+            int maxLenght = record.Select(item => item.Length).Max();
+            record = record.Select(item => item.Insert(0, new string('0', maxLenght - item.Length))).ToList();
+
+            StringBuilder output = new StringBuilder();
+
+            int index = 1;
+            int remainer = 0;
+            while (!index.Equals(record[0].Length + 1))
+            {
+                int charSum = record.Select(item => item[item.Length - index] - '0').ToArray().Sum() + remainer;
+
+                if (charSum > 9)
+                {
+                    remainer = charSum / 10;
+                    charSum %= 10;
+                }
+                else
+                {
+                    remainer = 0;
+                }
+
+                output.Insert(0, charSum);
+                index++;
+            }
+
+            Console.WriteLine(output.ToString().TrimStart('0'));
         }
     }
 }
