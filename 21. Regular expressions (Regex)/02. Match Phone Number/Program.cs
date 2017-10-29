@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Text.RegularExpressions;
+using System.Threading.Tasks;
 
-namespace _04.Weather
+namespace _02.Match_Phone_Number
 {
     class Program
     {
@@ -11,17 +13,19 @@ namespace _04.Weather
         {
             string input = Console.ReadLine();
 
-            Regex pattern = new Regex(@"\b[A-Z][a-z]{1,}\b \b[A-Z][a-z]{1,}\b");
+            Regex pattern = new Regex(@"\+359([ -])2\1\d{3}\1\d{4}\b");
 
             if (pattern.IsMatch(input))
             {
                 MatchCollection matches = pattern.Matches(input);
 
-                foreach (Match name in matches)
+                StringBuilder output = new StringBuilder();
+                foreach (Match number in matches)
                 {
-                    Console.Write(name.Value + " ");
+                    output.Append(number + ", ");
                 }
-                Console.WriteLine();
+
+                Console.WriteLine(output.ToString().TrimEnd(',',' '));
             }
         }
     }

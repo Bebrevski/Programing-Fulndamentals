@@ -10,9 +10,40 @@ namespace _06.Sum_Big_Numbers
     {
         static void Main(string[] args)
         {
+            //string number = Console.ReadLine();
+            //int multiplier = int.Parse(Console.ReadLine());
+            //number = string.Join("", number.Reverse());
+
+            //var result = new StringBuilder();
+            //int current = 0;
+            //for (int i = 0; i < number.Length; i++)
+            //{
+            //    int next = 0;
+            //    current += (number[i] - 48) * multiplier;
+            //    if (current >= 10)
+            //    {
+            //        next = current / 10;
+            //        current %= 10;
+            //    }
+            //    result.Append(current);
+            //    current = next;
+            //}
+            //if (current != 0)
+            //{
+            //    result.Append(current.ToString());
+            //}
+            //string final = string.Join("", result.ToString().TrimEnd('0').Reverse());
+            //Console.WriteLine(final.Length != 0 ? final : "0");
+
+            //Solution for multiple digits =>
+
             StringBuilder number = new StringBuilder(Console.ReadLine());
             StringBuilder multiplier = new StringBuilder(Console.ReadLine());
-
+            if (int.Parse(multiplier.ToString()).Equals(0))
+            {
+                Console.WriteLine(0);
+                return;
+            }
 
             List<StringBuilder> record = new List<StringBuilder>();
 
