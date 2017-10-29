@@ -22,7 +22,10 @@ namespace _05.Key_Replacer
 
                 string input = Console.ReadLine();
 
-                string newPattern = @"(?:" + string.Format("{0}", start) + ")" + @"(?<take>.*?)" + @"(?:" + string.Format("{0}", end) + ")";
+                //newPattern -> (?:start)(?<take>.*?)(?:end)
+                string newPattern = @"(?:" + string.Format("{0}", start) + ")" + 
+                                    @"(?<take>.*?)" +                            
+                                    @"(?:" + string.Format("{0}", end) + ")";    
 
                 Regex newRegex = new Regex(newPattern);
 

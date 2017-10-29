@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Weather", "04. Weather\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Key Replacer", "05. Key Replacer\05. Key Replacer.csproj", "{5176538E-F0EA-4735-BB09-8DC47B65985E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. (Star) Valid Usernames", "06. (Star) Valid Usernames\06. (Star) Valid Usernames.csproj", "{BD0DAC8A-96D5-46D1-8CC5-666510B018EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5176538E-F0EA-4735-BB09-8DC47B65985E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5176538E-F0EA-4735-BB09-8DC47B65985E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5176538E-F0EA-4735-BB09-8DC47B65985E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0DAC8A-96D5-46D1-8CC5-666510B018EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0DAC8A-96D5-46D1-8CC5-666510B018EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0DAC8A-96D5-46D1-8CC5-666510B018EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0DAC8A-96D5-46D1-8CC5-666510B018EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

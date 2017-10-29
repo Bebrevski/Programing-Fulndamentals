@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>107d5a08-6f5d-4692-96b7-87474e39f8a6</ProjectGuid>
+    <ProjectGuid>{BD0DAC8A-96D5-46D1-8CC5-666510B018EE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_06._Star__Valid_Usernames</RootNamespace>
