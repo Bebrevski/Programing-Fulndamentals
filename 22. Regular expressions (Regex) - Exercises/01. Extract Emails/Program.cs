@@ -13,7 +13,7 @@ namespace _01.Extract_Emails
         {
             string input = Console.ReadLine();
 
-            Regex pattern = new Regex(@"([a-zA-Z0-9]+([._-])?([a-zA-Z0-9]+))@([a-z]+([-])?([\.])?)*");
+            Regex pattern = new Regex(@"(?:^|[ \b])([a-zA-Z0-9]+[._-]?[a-zA-Z0-9]+)@([a-z]+[.-]?[a-z]+)(\.([a-z]+))+");
 
             if (pattern.IsMatch(input))
             {

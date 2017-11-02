@@ -56,7 +56,7 @@ namespace _04.Weather
 
             foreach (Weather item in record.OrderBy(x => x.Temperature))
             {
-                Console.WriteLine("{0} => {1} => {2}"
+                Console.WriteLine("{0} => {1:f2} => {2}"
                     , item.City
                     , item.Temperature
                     , item.Type);

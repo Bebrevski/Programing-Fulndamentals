@@ -11,18 +11,18 @@ namespace _02.Extract_Sentences_by_Keyword
     {
         static void Main(string[] args)
         {
-            string regex = string.Format(@"(?<=([ ]))" + @"{0}" + @"(?=([ ]))", Console.ReadLine());
+            string regex = string.Format(@"\b" + @"{0}" + @"\b", Console.ReadLine());
 
             string withRegex = ".!?";
 
             string[] input = Console.ReadLine()
                 .Split(withRegex.ToCharArray(), StringSplitOptions.RemoveEmptyEntries)
-                .Select(x=>x.Trim())
+                .Select(x => x.Trim())
                 .ToArray();
 
             foreach (string sentence in input)
             {
-                if (Regex.IsMatch(sentence,regex))
+                if (Regex.IsMatch(sentence, regex))
                 {
                     Console.WriteLine(sentence);
                 }

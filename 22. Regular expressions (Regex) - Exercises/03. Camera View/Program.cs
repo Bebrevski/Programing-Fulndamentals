@@ -28,7 +28,7 @@ namespace _03.Camera_View
                 string[] tokens = pattern.Match(input)
                                          .Groups["camera"]
                                          .Value
-                                         .Split(new[] { '|', '<' },
+                                         .Split(new[] { "|<"},
                                           StringSplitOptions.RemoveEmptyEntries)
                                          .Select(x=>x.Trim())
                                          .ToArray();

@@ -11,49 +11,42 @@ namespace _05.Key_Replacer
     {
         static void Main(string[] args)
         {
-            string keys = Console.ReadLine();
+            string[] keys = Console.ReadLine()
+                .Split(new[] { '|', '<', '\\' }, StringSplitOptions.RemoveEmptyEntries)
+                .ToArray();
 
-            Regex pattern = new Regex(@"^(?<start>[a-zA-Z]+)((?:[<|\\]).*?[<|\\])(?<end>[a-zA-Z]+)$");
+            string start = keys.First();
+            string end = keys.Last();
 
-            if (pattern.IsMatch(keys))
+            string input = Console.ReadLine();
+
+            string pattern = @"(?<=" + string.Format("{0}", start) + ")" +
+                                @"(.*?)" +
+                                @"(?=" + string.Format("{0}", end) + ")";
+
+            Regex newRegex = new Regex(pattern);
+
+            MatchCollection matches = newRegex.Matches(input);
+
+            StringBuilder output = new StringBuilder();
+
+            foreach (Match item in matches)
             {
-                string start = pattern.Match(keys).Groups["start"].Value;
-                string end = pattern.Match(keys).Groups["end"].Value;
-
-                string input = Console.ReadLine();
-
-                //newPattern -> (?:start)(?<take>.*?)(?:end)
-                string newPattern = @"(?:" + string.Format("{0}", start) + ")" + 
-                                    @"(?<take>.*?)" +                            
-                                    @"(?:" + string.Format("{0}", end) + ")";    
-
-                Regex newRegex = new Regex(newPattern);
-
-                if (newRegex.IsMatch(input))
+                if (!(item.Value.Contains(start) && item.Value.Contains(end)))
                 {
-                    MatchCollection matches = newRegex.Matches(input);
-
-                    StringBuilder output = new StringBuilder();
-
-                    foreach (Match item in matches)
-                    {
-                        output.Append(item.Groups["take"].Value);
-                    }
-
-                    if (output.Length.Equals(0))
-                    {
-                        Console.WriteLine("Empty result");
-                    }
-                    else
-                    {
-                        Console.WriteLine(output);
-                    }
+                    output.Append(item.Value);
                 }
             }
-            else
+
+            if (output.Length.Equals(0))
             {
                 Console.WriteLine("Empty result");
             }
+            else
+            {
+                Console.WriteLine(output);
+            }
+
         }
     }
 }
