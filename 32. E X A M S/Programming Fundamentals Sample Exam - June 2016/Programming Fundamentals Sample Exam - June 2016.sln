@@ -5,6 +5,12 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Sweet Dessert", "1. Sweet Dessert\1. Sweet Dessert.csproj", "{058362F5-C2B2-4EDB-8ABB-03E37B28A4A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Array Modifier", "2. Array Modifier\2. Array Modifier.csproj", "{9D8581ED-6385-4A62-9615-16B70CF63D1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Target Multiplier", "3. Target Multiplier\3. Target Multiplier.csproj", "{69EABDA4-8B10-45AC-B98E-AF2E8144C19E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 – Population Aggregation", "4 – Population Aggregation\4 – Population Aggregation.csproj", "{D52FA128-9290-4C68-A65E-ACF2EDDBC280}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{058362F5-C2B2-4EDB-8ABB-03E37B28A4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{058362F5-C2B2-4EDB-8ABB-03E37B28A4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{058362F5-C2B2-4EDB-8ABB-03E37B28A4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D8581ED-6385-4A62-9615-16B70CF63D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D8581ED-6385-4A62-9615-16B70CF63D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D8581ED-6385-4A62-9615-16B70CF63D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D8581ED-6385-4A62-9615-16B70CF63D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69EABDA4-8B10-45AC-B98E-AF2E8144C19E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69EABDA4-8B10-45AC-B98E-AF2E8144C19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69EABDA4-8B10-45AC-B98E-AF2E8144C19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69EABDA4-8B10-45AC-B98E-AF2E8144C19E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52FA128-9290-4C68-A65E-ACF2EDDBC280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52FA128-9290-4C68-A65E-ACF2EDDBC280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52FA128-9290-4C68-A65E-ACF2EDDBC280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52FA128-9290-4C68-A65E-ACF2EDDBC280}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
