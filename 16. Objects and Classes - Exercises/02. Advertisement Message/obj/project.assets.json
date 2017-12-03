@@ -664,7 +664,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Stefaka\\.nuget\\packages\\": {},
+    "C:\\Users\\Desta\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -673,17 +673,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\16. OBJECTS AND CLASSES - EXERCISES\\02. Advertisement Message\\02. Advertisement Message.csproj",
+      "projectUniqueName": "E:\\SoftUni\\Programing Fundamentals Sept. 2017\\16. Objects and Classes - Exercises\\02. Advertisement Message\\02. Advertisement Message.csproj",
       "projectName": "02. Advertisement Message",
-      "projectPath": "D:\\SoftUni\\16. OBJECTS AND CLASSES - EXERCISES\\02. Advertisement Message\\02. Advertisement Message.csproj",
-      "packagesPath": "C:\\Users\\Stefaka\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\16. OBJECTS AND CLASSES - EXERCISES\\02. Advertisement Message\\obj\\",
+      "projectPath": "E:\\SoftUni\\Programing Fundamentals Sept. 2017\\16. Objects and Classes - Exercises\\02. Advertisement Message\\02. Advertisement Message.csproj",
+      "packagesPath": "C:\\Users\\Desta\\.nuget\\packages\\",
+      "outputPath": "E:\\SoftUni\\Programing Fundamentals Sept. 2017\\16. Objects and Classes - Exercises\\02. Advertisement Message\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Stefaka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Desta\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
