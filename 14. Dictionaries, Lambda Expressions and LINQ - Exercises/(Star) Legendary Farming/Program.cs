@@ -47,7 +47,7 @@
                         junk[material] += quantity;
                     }
 
-                    if ((materials["shards"] >= 250)
+                    if (materials["shards"] >= 250
                       || materials["fragments"] >= 250
                       || materials["motes"] >= 250)
                     {
